@@ -5,3 +5,4 @@
 4 Marketing 
 5 Finanzas
 6 Producción
+7 Diseño
