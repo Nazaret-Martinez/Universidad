@@ -5,3 +5,5 @@
 4.- Carlos
 5.- Ana
 6.- Pedro
+7.- Luis
+8.- Sofia
