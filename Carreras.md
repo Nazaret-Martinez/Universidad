@@ -3,6 +3,4 @@
 2 Contabilidad
 3 Capital Humano
 4 Marketing 
-5 Finanzas
-6 Producción
-7 Diseño
+5 Carrera agregada desde Github, hacer el commit
